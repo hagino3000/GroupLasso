@@ -20,7 +20,7 @@ setup(
     author_email='yu.umegaki@gmail.com',
     install_requires=[
         'pandas',
-        'numpy==2.0',
+        'numpy==1.18.5',
         'scikit-learn',
         'numba'
     ],
